@@ -9,11 +9,11 @@ O objetivo é praticar **HTML** e **CSS** criando uma página responsiva, elegan
 
 ### 💻 Desktop
 
-![Preview Desktop](./assets/images/preview-desktop.jpg)
+![Preview Desktop](./design/active-states.jpg)
 
 ### 📱 Mobile
 
-![Preview Mobile](./assets/images/preview-mobile.jpg)
+![Preview Mobile](./design/mobile-design.jpg)
 
 ---
 
@@ -42,8 +42,8 @@ A interface é **minimalista, responsiva e acessível**.
 ---
 
 ## 📁 Estrutura de Pastas
-
-```plaintext
+```bash
+plaintext
 📦 projeto-social-links
 ├── 📂 assets
 │   └── 📂 images
@@ -53,3 +53,7 @@ A interface é **minimalista, responsiva e acessível**.
 │   └── style.css
 ├── index.html
 └── README.md
+```
+
+---
+
